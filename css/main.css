@@ -1,6 +1,15 @@
 * {
-  color: black;
+  margin: 10px;
+}
 
+.light-background {
+  background-color: white;
+  color: black;
+}
+
+.dark-background {
+  background-color: black;
+  color: white;
 }
 
 h1, h2, h3 {
@@ -8,10 +17,6 @@ h1, h2, h3 {
   font-family: 'Permanent Marker', cursive;
   color: #4C2800;
   letter-spacing: 2px;
-}
-
-body {
-  background-color: #FF8600;
 }
 
 p {
